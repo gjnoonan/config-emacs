@@ -1,0 +1,3 @@
+[submodule "vendor/color-theme-tango-2"]
+	path = vendor/color-theme-tango-2
+	url = git://github.com/wfarr/color-theme-tango-2

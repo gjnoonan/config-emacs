@@ -2,5 +2,7 @@
 
 ;; Color Themes
 (vendor 'color-theme)
-
 (setq color-theme-is-global t)
+(vendor 'color-theme-tango-2)
+(color-theme-tango-2)
+
